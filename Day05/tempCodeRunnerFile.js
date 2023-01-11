@@ -1,0 +1,1 @@
+ges.length%2==0?(ages[ages.length/2 -1]+ages[ages.length/2 ])/2:ages[parseInt(ages.length/2)])
